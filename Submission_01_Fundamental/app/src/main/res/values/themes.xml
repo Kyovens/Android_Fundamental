@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Submission_01_Fundamental" parent="Theme.Material3.DayNight">
+    </style>
+
+    <style name="Theme.Submission_01_Fundamental.SplashScreen" parent="Base.Theme.Submission_01_Fundamental">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
+    </style>
+
+    <style name="Theme.Submission_01_Fundamental" parent="Base.Theme.Submission_01_Fundamental" />
+</resources>

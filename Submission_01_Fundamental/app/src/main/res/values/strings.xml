@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Submission-01-Fundamental</string>
+    <string name="username">Reza</string>
+    <string name="hint_searching">Cari</string>
+    <string name="full_name">Muhammad Reza Mahendra Laiya</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="desc_pic">Photo Profile</string>
+    <string name="pembatas">|</string>
+    <string name="followers">0</string>
+    <string name="followings">0</string>
+    <string name="favorit">Favorite Button</string>
+    <string name="darkMode">Dark Mode</string>
+    <string name="settings">Setting</string>
+    <string name="fav">Favorite User</string>
+</resources>
